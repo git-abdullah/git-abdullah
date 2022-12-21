@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h3 align="center">I love to watch anime, read manga and sure am passionate about programming</h3>
 🌱 I’m currently learning JavaScript (discord.js)<br>📫 Find me on Discord Nix Syl#4196 (Nix Syl is my rp name)<br>⚡ Fun fact I waste too much time doing nothing
 
 
